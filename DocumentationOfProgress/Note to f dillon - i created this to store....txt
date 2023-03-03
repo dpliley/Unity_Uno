@@ -1,0 +1,7 @@
+to store documents on the progress and updates i make to the game
+Example:
+	- images of paper solutions and psudocode
+	- iterative design ideas on how to implement functionality
+	- documentation of hours worked on the project, and what part of the project they were worked on for. 
+		Example: - worked on design for 5h
+				 - coded for 10h
